@@ -1,9 +1,6 @@
-package flyweight;
+package structural.flyweight;
 
 import org.junit.Test;
-import structural.flyweight.Tree;
-import structural.flyweight.TreeFactory;
-import structural.flyweight.TreeModel;
 
 public class TreeFactoryTest {
 
